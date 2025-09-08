@@ -1,5 +1,30 @@
-# 💫 About Me:
-🔭 I’m currently working in Djnago Backend Developer For my Own Bussiness<br>in my Half of day i am a Bug Hunter in HackerOne & etc..<br>my favorite Hobbie is Write Automation for my Hunt Tools<br>👯 I’m looking to collaborate on who are can make Monney from Knowledge<br>🤝 I’m looking for help with junior Hunters that wish to have Teriaged Bug Report <br>🌱 I’m currently learning Everyday None-Stop in DevOps & WebApp Security <br>💬 Ask me about Django, Python, Kali Linux and Penetration Testing<br>⚡ Fun fact about Me, Leave Me Alone !
+# Me ??
+<h1></h1>
+<h2>Hmnaity Thrives When We Help Each Other to Rise</h2>
+<p>
+  
+				__| |___________________________________________________________________________________| |__
+				__   ___________________________________________________________________________________   __
+				  | |                                                                                   | |  
+				  | |                                                                                   | |  
+				  | |                                                                                   | |  
+				  | |    ______  ________ _______  __    __ ______ _______   ______ ________ __    __   | |  
+				  | |   /      \|        |       \|  \  |  |      |       \ /      |        |  \  |  \  | |  
+				  | |  |  $$$$$$| $$$$$$$| $$$$$$$| $$  | $$\$$$$$| $$$$$$$|  $$$$$$\$$$$$$$| $$  | $$  | |  
+				  | |  | $$___\$| $$__   | $$__/ $| $$__| $$ | $$ | $$__| $| $$  | $$ | $$  | $$__| $$  | |  
+				  | |   \$$    \| $$  \  | $$    $| $$    $$ | $$ | $$    $| $$  | $$ | $$  | $$    $$  | |  
+				  | |   _\$$$$$$| $$$$$  | $$$$$$$| $$$$$$$$ | $$ | $$$$$$$| $$  | $$ | $$  | $$$$$$$$  | |  
+				  | |  |  \__| $| $$_____| $$     | $$  | $$_| $$_| $$  | $| $$__/ $$ | $$  | $$  | $$  | |  
+				  | |   \$$    $| $$     | $$     | $$  | $|   $$ | $$  | $$\$$    $$ | $$  | $$  | $$  | |  
+				  | |    \$$$$$$ \$$$$$$$$\$$      \$$   \$$\$$$$$$\$$   \$$ \$$$$$$   \$$   \$$   \$$  | |  
+				  | |                                                                                   | |  
+				  | |                                                                                   | |  
+				__| |___________________________________________________________________________________| |__
+				__   ___________________________________________________________________________________   __
+  
+</p>
+
+🔭 I’m Full-Stack Developer and focus on my Own Bussiness Website<br>i Build Back Bone by Day but, i Break Boundaries as Bug Hunter by Night ;) <br><br>💬⚡ Fun fact about Me, Leave Me Alone !
 
 
 ## 🌐 Socials:
