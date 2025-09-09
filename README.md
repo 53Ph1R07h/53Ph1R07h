@@ -1,7 +1,7 @@
 <!-- Hacker-Style GitHub Profile -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=monospace&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=30&lines=>>>+Welcome+To+My+Cyber+World;Humanity+Thri;BUG+BOUNTY+HUNTER;SECURITY+RESEARCHER;HACK+THE+PLANET+⚡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=monospace&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=30&lines=>>>+Welcome+To+My+Cyber+World+<<<;Bug+Bounty+Hunter;Security+Researcher;Hack+The+Planet+⚡" alt="Typing SVG" />
 </p>
 
 
